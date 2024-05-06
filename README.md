@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aysenurgezgin
 - 👀 I’m interested in different perspectives and new people
-- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on with people with the same purpose
 - 📫 How to reach me aysenurgezgin99@gmail.com
 
