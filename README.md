@@ -6,4 +6,5 @@ Backend geliştirme tecrübem var ve **iş gereksinimlerini çözüme dönüşt�
 📌 Bu profildeki projeler:
 - İş problemini analiz edip çözdüğüm backend örnekleri
 - İhtiyaca göre geliştirilmiş uygulamalar
+- 
 📫 İletişim: aysenurgezgin99@gmail.com
